@@ -42,7 +42,7 @@ and sent it to
 Once you get access to it you will be able to login to the cluster via the ssh command in the terminal (cli) and vscode.
 
 ## SSH into a Sanmi owned node/server
-SSH into a SNAP server/node owned by Sanmi's Lab (`skampere1`, `mercury1`, `mercury2`) directly with your csid/sunet e.g.,:
+To access a SNAP server or node owned by Sanmi’s Lab, you can use any of the following machines: skampere1, ampere1, ampere8, hyperturning1, hyperturning2, or any of the mercury machines (mercury1, mercury2). Use your CSID/SUNet ID to log in. For example:
 ```bash
 # Example
 ssh brando9@skampere1.stanford.edu

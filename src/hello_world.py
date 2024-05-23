@@ -2,7 +2,7 @@ def print_hello_snap():
     print("Hello, World from the Snap Cluster Setup src!")
 
 def print_by_editing_me():
-    print("EDIT THIS")
+    print("Elyas Obbad")
 
 def print_from_another():
     from another_hello import print_another
